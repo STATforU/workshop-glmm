@@ -4,7 +4,7 @@ Les modèles linéaires LM, modèles linéaires généralisés GLM, mixtes ou no
 
 **Il ne s'agit pas de cours**, mais d'un activité d'échange et de partage des connaissances. Les participants viennent avec leurs données et les analyses qu'ils ont faites. Ils les présentent aux autres. Ils expliquent les questions ou difficultés qu'ils rencontrent. Ensuite, ces questions sont travaillées par petits groupes. Un porte-parole vient enfin présenter le résultat du travail pour chaque groupe. Il s'agit donc ici de s'attaquer aux question **collectivement**.
 
-L'atelier sera organisé dans le courant du mois de mars sous forme de deux demi-journées (voire plus, si nécessaire, en fonction de l'avancement). Le calendrier précis sera déterminé ultérieurement avec les inscrits de sorte qu'il convienne au mieux à l'agenda de chacun.
+L'atelier sera organisé dans le courant avril-mai 2023 sous forme de deux demi-journées (voire plus, si nécessaire, en fonction de l'avancement). Le calendrier précis sera déterminé ultérieurement avec les inscrits de sorte qu'il convienne au mieux à l'agenda de chacun.
 
 Les conditions d'accès à cet atelier sont :
 
